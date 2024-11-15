@@ -5,7 +5,7 @@
 
 ## O que você verá nesse teste Automatizado em Cypress ? 
 
-Durante o processo de realização do teste automatizado no ambiente desejado eu verifiquei algumas coisas que achei necessário automatizar:
+Durante o processo de realização do teste automatizado no ambiente https://imobiliario.desenvolvimento.taya.com.br/cadastro-parceiro eu verifiquei algumas coisas que achei necessário automatizar:
 
 - Acesso ao ambiente de teste
 - Preencher o formulário de auto cadastramento
